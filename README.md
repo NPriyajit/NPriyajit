@@ -10,6 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NPriyajit&langs_count=5&card_width=495&bg_color=282c34&text_color=ccf&title_color=56d364&custom_title=Good%20At%20These)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=NPriyajit&color=brightgreen&label=Travellers)
 
 
 <!---
